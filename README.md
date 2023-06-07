@@ -63,5 +63,17 @@ assign carry=((a&b)|(b&c)|(c&a));endmodule
 
 ![image](https://user-images.githubusercontent.com/119401038/230593099-fe6c4112-d1f1-41c8-812f-fac37e40c3c4.png)
 
+Half Adder:
+![image](https://github.com/Meetha22003992/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119401038/05b057be-4cfd-49ef-9142-4067bd6010c7)
+
+Full Adder:
+![image](https://github.com/Meetha22003992/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119401038/95af5337-5f4e-4860-a72c-7b6ef03ce1d5)
+
+Truth Tablefor Half Adder:
+![image](https://github.com/Meetha22003992/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119401038/8c5a6531-aca0-4574-aef8-43913843cac3)
+
+Truth Table for Full adder:
+![image](https://github.com/Meetha22003992/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119401038/50e1c1e8-7b42-4bcd-9dc6-0c9492d0d1de)
+
 ### Result:
 Thus, the different digital IC's are studied and the truth table for different logic gates areverified.
