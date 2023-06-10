@@ -36,6 +36,7 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
+```
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 Developed by: Meetha Prabhu
@@ -54,10 +55,8 @@ input a,b,c;
 output sum,carry; 
 assign sum =((a^b)^c);
 assign carry=((a&b)|(b&c)|(c&a));endmodule
-
-
 */
-
+```
 ### Output:
 ![image](https://user-images.githubusercontent.com/119401038/230592063-22c41436-77ca-406b-a644-cd1a14f889ae.png)
 
