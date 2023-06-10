@@ -58,6 +58,7 @@ assign carry=((a&b)|(b&c)|(c&a));endmodule
 */
 ```
 ### Output:
+
 ![image](https://user-images.githubusercontent.com/119401038/230592063-22c41436-77ca-406b-a644-cd1a14f889ae.png)
 
 ![image](https://user-images.githubusercontent.com/119401038/230593099-fe6c4112-d1f1-41c8-812f-fac37e40c3c4.png)
